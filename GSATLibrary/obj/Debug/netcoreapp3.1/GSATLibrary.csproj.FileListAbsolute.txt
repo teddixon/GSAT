@@ -1,0 +1,8 @@
+C:\DOTNET\GSAT\GSATLibrary\bin\Debug\netcoreapp3.1\GSATLibrary.deps.json
+C:\DOTNET\GSAT\GSATLibrary\bin\Debug\netcoreapp3.1\GSATLibrary.dll
+C:\DOTNET\GSAT\GSATLibrary\bin\Debug\netcoreapp3.1\GSATLibrary.pdb
+C:\DOTNET\GSAT\GSATLibrary\obj\Debug\netcoreapp3.1\GSATLibrary.csprojAssemblyReference.cache
+C:\DOTNET\GSAT\GSATLibrary\obj\Debug\netcoreapp3.1\GSATLibrary.AssemblyInfoInputs.cache
+C:\DOTNET\GSAT\GSATLibrary\obj\Debug\netcoreapp3.1\GSATLibrary.AssemblyInfo.cs
+C:\DOTNET\GSAT\GSATLibrary\obj\Debug\netcoreapp3.1\GSATLibrary.dll
+C:\DOTNET\GSAT\GSATLibrary\obj\Debug\netcoreapp3.1\GSATLibrary.pdb

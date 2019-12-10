@@ -1,0 +1,15 @@
+﻿.img-loading {
+    width: 100%;
+    height: auto;
+    border: 1px solid #b5b5b5;
+    background: url("./please-wait.gif");
+    background-color: transparent;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.img-loaded {
+    width: 100%;
+    height: auto;
+    border: 1px solid #b5b5b5;
+}
